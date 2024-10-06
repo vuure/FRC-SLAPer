@@ -17,3 +17,5 @@ Lokalizasyon, robotun encoder, kamera, mesafe sensörü gibi sensörlerinden eld
 Bu öğreticide Tank (WCD) sürüş için odometriyi inceleyeceğiz.
 
 Odometri hesaplamanın temel olarak iki yolu vardır
+## Yay Teorisi (Theory Of Arc)
+[(https://img.youtube.com/vi/watch?v=LXb3EKWsInQ/0.jpg)](https://www.youtube.com/watch?v=LXb3EKWsInQ)
