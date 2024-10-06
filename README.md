@@ -16,7 +16,11 @@ Lokalizasyon, robotun encoder, kamera, mesafe sensörü gibi sensörlerinden eld
 
 Bu öğreticide Tank (WCD) sürüş için odometriyi inceleyeceğiz.
 
-Odometri hesaplamanın temel olarak iki yolu vardır
+![image](https://github.com/user-attachments/assets/92001dea-d478-43d9-8633-1e2bddd8178a)
+*Bir Önceki Projelerimden, Kaynak: Ben*
+
+WCD için Odometri hesaplamanın yaygın olarak bilinen iki yolu vardır:
+
 ## Yay Teorisi (Theory Of Arc)
-test videosu
+Yay teorisi, temelinde tekerleklerin birim zamandaki encoder değerlerindeki değişimlerden bir daire çizdiklerini varsayarak yapılan hesaplardan konum değişiminin hesaplanmasını içerir. Bu, her ne kadar WCD için işimize yarasa da Swerwe, Mecanum ve X-Drive gibi diğer çeşitli sürüş sistemlerinde işe yaramamaktadır. Hesaplama hakkındaki detayları öğrenmek için aşağıda bulunan tarafımızca çekilen videoyu izleyebilirsiniz.
 [![Videoyu izleyin](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=_5tFXJQIzi4)
